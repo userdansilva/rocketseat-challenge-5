@@ -1,1 +1,30 @@
-// TODO
+.title {
+  font-size: 48px;
+  margin-bottom: 24px;
+  color: var(--heading);
+}
+
+.heading {
+  font-size: 36px;
+  color: var(--heading);
+  margin-bottom: 3.375rem;
+}
+
+.infoContainer {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 4rem;
+  font-size: 14px;
+  color: var(--info);
+}
+
+.info {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.banner {
+  margin-bottom: 5rem;
+}
